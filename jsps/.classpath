@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Dhatri Workspace/mandava_checkout/WebContent/WEB-INF/lib/servlet-api.jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Dhatri Workspace/mandava_checkout/WebContent/WEB-INF/lib/mysql-connector-java-3.1.14/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Dhatri Workspace/mandava_checkout/WebContent/WEB-INF/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Location_Dhatri_Work/Eclipse_Project/mailactivation/activation.jar"/>
+	<classpathentry kind="lib" path="D:/Location_Dhatri_Work/Eclipse_Project/mailactivation/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Location_Dhatri_Work/Eclipse_Project/spdf_2.9.2-0.1.0-sources.jar/spdf_2.9.2-0.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/apps/Downloads/jfreechart-1.0.1/jfreechart-1.0.1/jfreechart-1.0.1-demo.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
